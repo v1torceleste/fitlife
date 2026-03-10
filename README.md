@@ -1,3 +1,7 @@
+# FitLife Dashboard
+
+
+
 Projeto desenvolvido na disciplina de Front-End.
 
 
@@ -6,13 +10,13 @@ Ferramentas utilizadas:
 
 
 
-\- HTML
+- HTML
 
-\- CSS
+- CSS
 
-\- JavaScript
+- JavaScript
 
-\- Git
+- Git
 
-\- GitHub
+- GitHub
 
